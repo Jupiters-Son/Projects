@@ -1,0 +1,7 @@
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\NoteTaking.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\Mono.Android.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\mscorlib.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\System.Core.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\System.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\System.Xml.dll
+\\telmar\users\tw042\My Documents\Visual Studio 2015\Projects\NoteTaking\NoteTaking\obj\Debug\assemblies\System.Xml.Linq.dll

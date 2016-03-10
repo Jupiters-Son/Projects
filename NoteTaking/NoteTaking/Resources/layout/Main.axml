@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:actionBarNavMode="list"
+    android:background="@android:color/background_light">
+    <ImageButton
+        android:src="@drawable/headerlogo"
+        android:layout_width="match_parent"
+        android:layout_height="75.2dp"
+        android:id="@+id/imageButton1"
+        tools:visibility="visible"
+        android:layout_marginBottom="18.4dp"
+        android:background="@android:color/background_light" />
+    <ImageButton
+        android:src="@drawable/play"
+        android:layout_width="match_parent"
+        android:layout_height="234.7dp"
+        android:id="@+id/btnPlay"
+        android:background="@android:color/background_light" />
+    <Button
+        android:text="Scores"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnScores"
+        android:background="@android:color/background_dark"
+        android:layout_marginTop="40dp" />
+</LinearLayout>

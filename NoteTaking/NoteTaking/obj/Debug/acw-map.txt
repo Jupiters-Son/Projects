@@ -1,0 +1,20 @@
+NoteTaking.DataAdapter, NoteTaking;md55de10983bcb89678287eb0fccb4e1ad6.DataAdapter
+NoteTaking.DataAdapter, NoteTaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55de10983bcb89678287eb0fccb4e1ad6.DataAdapter
+NoteTaking.DataAdapter;md55de10983bcb89678287eb0fccb4e1ad6.DataAdapter
+notetaking.DataAdapter;md55de10983bcb89678287eb0fccb4e1ad6.DataAdapter
+NoteTaking.HangmanCode, NoteTaking;md55de10983bcb89678287eb0fccb4e1ad6.HangmanCode
+NoteTaking.HangmanCode, NoteTaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55de10983bcb89678287eb0fccb4e1ad6.HangmanCode
+NoteTaking.HangmanCode;md55de10983bcb89678287eb0fccb4e1ad6.HangmanCode
+notetaking.HangmanCode;md55de10983bcb89678287eb0fccb4e1ad6.HangmanCode
+NoteTaking.MainActivity, NoteTaking;md55de10983bcb89678287eb0fccb4e1ad6.MainActivity
+NoteTaking.MainActivity, NoteTaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55de10983bcb89678287eb0fccb4e1ad6.MainActivity
+NoteTaking.MainActivity;md55de10983bcb89678287eb0fccb4e1ad6.MainActivity
+notetaking.MainActivity;md55de10983bcb89678287eb0fccb4e1ad6.MainActivity
+NoteTaking.Scores, NoteTaking;md55de10983bcb89678287eb0fccb4e1ad6.Scores
+NoteTaking.Scores, NoteTaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55de10983bcb89678287eb0fccb4e1ad6.Scores
+NoteTaking.Scores;md55de10983bcb89678287eb0fccb4e1ad6.Scores
+notetaking.Scores;md55de10983bcb89678287eb0fccb4e1ad6.Scores
+NoteTaking.SplashActivity, NoteTaking;md55de10983bcb89678287eb0fccb4e1ad6.SplashActivity
+NoteTaking.SplashActivity, NoteTaking, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55de10983bcb89678287eb0fccb4e1ad6.SplashActivity
+NoteTaking.SplashActivity;md55de10983bcb89678287eb0fccb4e1ad6.SplashActivity
+notetaking.SplashActivity;md55de10983bcb89678287eb0fccb4e1ad6.SplashActivity
